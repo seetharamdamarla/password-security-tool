@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm IDE settings
+.idea/
+
+# Virtual environment (if created inside project folder)
+.venv/
+
+# Log files
+*.log
