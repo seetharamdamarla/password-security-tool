@@ -1,6 +1,6 @@
 # 🔐 Password Strength Analyzer with Custom Wordlist Generator
 
-This is a Python-based desktop application that helps you analyze the strength of a password and generate a custom wordlist using basic personal information. It's a useful tool for learning about password security and creating targeted dictionaries for ethical hacking and penetration testing.
+This is a Python-based desktop application that helps you analyze the strength of a password and generate a custom wordlist using basic personal information. It's a useful tool for learning about password security and creating targeted dictionaries for ethical hacking and penetration testing
 
 ---
 
