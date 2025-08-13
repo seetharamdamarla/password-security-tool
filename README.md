@@ -1,10 +1,10 @@
-# 🔐 Password Strength Analyzer with Custom Wordlist Generator
+# Password Strength Analyzer with Custom Wordlist Generator
 
 This is a Python-based desktop application that helps you analyze the strength of a password and generate a custom wordlist using basic personal information. It's a useful tool for learning about password security and creating targeted dictionaries for ethical hacking and penetration testing
 
 ---
 
-## 💡 Features
+## Features
 
 - Analyze password strength using the `zxcvbn` algorithm
 - View estimated crack time, guesses needed, and suggestions
@@ -17,7 +17,7 @@ This is a Python-based desktop application that helps you analyze the strength o
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 python gui.py
@@ -47,27 +47,7 @@ This will launch the GUI where you can:
 
 ---
 
-## ⚠️ Disclaimer
-
-This tool is for **educational and ethical use only**.  
-Do **not** use it for unauthorized access or malicious activity. Always respect privacy and legal boundaries.
-
----
-
-## 📂 Project Structure
-
-```
-├── analyzer.py         # Password strength logic
-├── wordlist.py         # Wordlist generator with leetspeak
-├── utils.py            # Utility functions
-├── gui.py              # Main application with Tkinter GUI
-├── requirements.txt    # Python dependencies
-├── README.md           # Project overview (this file)
-```
-
----
-
-## 🛠 Requirements
+## Requirements
 
 - Python 3.8 or higher
 - `zxcvbn` library
@@ -75,6 +55,13 @@ Do **not** use it for unauthorized access or malicious activity. Always respect 
 
 ---
 
-## 📝 License
+## License
 
 MIT License – use freely for ethical and legal purposes.
+
+---
+
+## Disclaimer
+
+This tool is for **educational and ethical use only**.  
+Do **not** use it for unauthorized access or malicious activity. Always respect privacy and legal boundaries.
