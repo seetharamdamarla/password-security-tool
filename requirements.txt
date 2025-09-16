@@ -1,1 +1,2 @@
 zxcvbn
+argon2-cffi
